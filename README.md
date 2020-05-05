@@ -1,2 +1,2 @@
-# Beginner-CNN-Projects
-Beginner level projects in Python(tensorflow with keras API), primarily involving the use of CNNs for Computer Vision tasks
+# CNN-Projects
+Beginner/Intermediate level projects in Python(tensorflow with keras API), that leverage CNNs for Computer Vision tasks
